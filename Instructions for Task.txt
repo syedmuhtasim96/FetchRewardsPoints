@@ -1,0 +1,19 @@
+Instructions for task.py
+Instructions:
+
+You'll need to install Python3.7+ to run this code.
+Can be downloaded from here:
+https://www.python.org/downloads/release/python-3712/
+
+After installation, open up terminal/cmd in the directory of the code
+and install only dependency by following command:
+
+pip install flask
+
+after this is done, you can run script by following command:
+
+python task.py
+
+Web service should be up and running at localhost port 5000
+
+After that requests can be made to the service and routers will respond as required.
